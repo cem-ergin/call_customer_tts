@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186170681274",
+    "project_id": "callcustomerproject",
+    "storage_bucket": "callcustomerproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186170681274:android:6af09222481f901d1adf83",
+        "android_client_info": {
+          "package_name": "com.example.call_customer_tts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186170681274-sj9afi30nimukrh1ogbb05jvb26lccvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1x2SJloa3Br8ZPwNu-ZRf11YuqgoPVAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186170681274-sj9afi30nimukrh1ogbb05jvb26lccvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
